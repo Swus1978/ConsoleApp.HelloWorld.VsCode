@@ -1,0 +1,14 @@
+C:\Users\Yashira\projects\ConsoleApp.additional\bin\Debug\net9.0\ConsoleApp.additional.exe
+C:\Users\Yashira\projects\ConsoleApp.additional\bin\Debug\net9.0\ConsoleApp.additional.deps.json
+C:\Users\Yashira\projects\ConsoleApp.additional\bin\Debug\net9.0\ConsoleApp.additional.runtimeconfig.json
+C:\Users\Yashira\projects\ConsoleApp.additional\bin\Debug\net9.0\ConsoleApp.additional.dll
+C:\Users\Yashira\projects\ConsoleApp.additional\bin\Debug\net9.0\ConsoleApp.additional.pdb
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.AssemblyInfoInputs.cache
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.AssemblyInfo.cs
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.csproj.CoreCompileInputs.cache
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.dll
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\refint\ConsoleApp.additional.dll
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.pdb
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ConsoleApp.additional.genruntimeconfig.cache
+C:\Users\Yashira\projects\ConsoleApp.additional\obj\Debug\net9.0\ref\ConsoleApp.additional.dll
